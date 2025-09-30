@@ -1,2 +1,3 @@
 # nxz
 first
+main{}
